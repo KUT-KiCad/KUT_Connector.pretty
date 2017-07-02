@@ -1,5 +1,5 @@
-(module microSD_DM3AT-SFPEJ (layer F.Cu) (tedit 58BCFED9)
-  (fp_text reference U5 (at 17.3355 5.9055 90) (layer F.SilkS)
+(module microSD_DM3AT-SFPEJ (layer F.Cu) (tedit 5959192C)
+  (fp_text reference REF** (at 17.3355 5.9055 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value microSD_DM3AT-SFPEJ (at 14.7955 5.9055 90) (layer F.SilkS)
